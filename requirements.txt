@@ -1,0 +1,6 @@
+fastapi
+pyttsx3
+SpeechRecognition
+uvicorn
+Jinja2
+PyAudio
